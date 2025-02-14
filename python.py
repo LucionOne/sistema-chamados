@@ -1,0 +1,2 @@
+lista = []
+# cria a lista
