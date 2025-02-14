@@ -3,4 +3,5 @@ Sistema de chamados em Python
 
 Esse sistema irá cadastrar ...
 
-![CAAWWT](sup my dude.jpg)
+![CAAWWT](sup_my_dude.jpg)
+CUTE CAt
